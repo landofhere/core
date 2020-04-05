@@ -4,7 +4,7 @@
   "description": "Land of Here GraphQL API",
   "main": "src/index.js",
   "scripts": {
-    "test": "''"
+    "test": "echo true"
   },
   "keywords": [
     "graphql",
