@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "description": "Land of Here GraphQL API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "''"
+  },
+  "keywords": [
+    "graphql",
+    "apollo"
+  ],
+  "author": "Barry Low <barry@studiobear.co>",
+  "license": "MIT"
+}
